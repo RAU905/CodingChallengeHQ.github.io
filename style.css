@@ -28,8 +28,7 @@ background-image: url("matrix-style-binary-code-digital-background-with-falling-
 background-color: blanchedalmond;
 }
 .card-body{
-   width: auto; 
-   height: auto;
+  
 border-radius: 2rem;
 background-color: rgb(227, 225, 170);
 color: rgb(0, 54, 111);
